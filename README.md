@@ -8,6 +8,7 @@ Soy un apasionado de la programación. Tuve mis comienzos de forma autodidacta c
 
 #### Dónde encontrarme:
 
+- [Linkedin](https://www.linkedin.com/in/l%C3%A1zaro-guillermo-p%C3%A9rez-montoto-507731216/9)
 - [Twitter](https://twitter.com/laguipemo)
 
 <!--
