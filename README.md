@@ -9,7 +9,7 @@ Soy un apasionado de la programación. Tuve mis comienzos de forma autodidacta c
 #### Dónde encontrarme:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A1zaro-guillermo-p%C3%A9rez-montoto-507731216/9)    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/laguipemo)<br>
-[![Google Developer Profile](https://img.shields.io/badge/Google%20Developer%20Profile-g.dev/laguipemo-orange.svg)]([http://www.nocountryforgeeks.com/author/gallardo](https://developers.google.com/profile/u/laguipemo))<br>
+[![Google Developer Profile](https://img.shields.io/badge/Google%20Developer%20Profile-g.dev/laguipemo-orange.svg)](https://developers.google.com/profile/u/laguipemo)<br>
 
 #### Habilidades en:
 
